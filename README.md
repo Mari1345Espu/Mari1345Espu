@@ -17,7 +17,6 @@ Here are some ideas to get you started:
 
 # 🐥💻 ¡Hola, soy Mari! 🌸💙  
 
-![Cinnamonroll](https://i.imgur.com/YJdJ9Xb.gif)  
 
 💙 Desarrolladora en formación | 🌸 Amante de la tecnología  
 🐥 Fundadora de **Patitos a Programar** 🦆, un proyecto para enseñar programación a niños de forma  divertida y sin limites.  
@@ -75,10 +74,10 @@ Here are some ideas to get you started:
 ## ☁️ Contáctame  
 
 💌 **Correo personal:** mafeescobar3110@gmail.com
-📧 **Correo del canal:** [patitosaprogramar@gmail.com](mailto:patitos.a.programar.1@gmail.com)  
+📧 **Correo del canal:** [patitosaprogramar@gmail.com](patitos.a.programar.1@gmail.com)  
 📺 **YouTube:** [Patitos a Programar](https://www.youtube.com/@PatitosaProgramar)
 )  
-🌸 **LinkedIn:** [Tu perfil aquí]  
+🌸 **LinkedIn:**  www.linkedin.com/in/maria-fernanda-escobar-pulido
 
 ✨ ¡Hablemos y creemos cosas bonitas que inspiren a más niños a aprender a programar! 💙
 
