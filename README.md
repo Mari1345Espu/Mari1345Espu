@@ -14,32 +14,36 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
 # 🐥💻 ¡Hola, soy Mari! 🌸💙  
 
 ![Cinnamonroll](https://i.imgur.com/YJdJ9Xb.gif)  
 
-💙 Desarrolladora en formación | 🌸 Amante de lo kawaii y la tecnología  
-🐥 Fundadora de **Patitos a Programar** 🦆, un proyecto para enseñar programación a niños de forma tierna y divertida.  
-☁️ Me apasiona **el desarrollo de apps de software tanto de escritorio como para el movil, la robotica y algunas cosas de redes ** y quiero convertirlo en algo inspire a aprender.  
+💙 Desarrolladora en formación | 🌸 Amante de la tecnología  
+🐥 Fundadora de **Patitos a Programar** 🦆, un proyecto para enseñar programación a niños de forma  divertida y sin limites.  
+☁️ Me apasiona **el desarrollo de software, tanto para movil como escritorio, ademas de el manejo de redes y algunos proyectos de hardware**, basicamente aprender sobre todo este campo.  
 
 ---
 
 ## ☁️ Sobre mí  
 
-- 🎓 Estudiante de **Ingeniería en Sistemas** (8.º semestre)  
+- 🎓 Estudiante de **Ingeniería en Sistemas** 
 - 🌍 Desde Cundinamarca, Colombia  
-- 💻 Creo proyectos de **IA, apps móviles, desarrollos de escritorio y electrónica **  
-- 💙 Mi meta: que aprender programación sea tan dulce y suave como un **cinnamonroll** 🥯✨  
+- 💻 Creo proyectos de **desarrollo de software y hardware** a medida  
+- 💙 Mi meta poder desarrollar un perfil profesional bastante amplio ✨  
 
 ---
 
 ## 🦆 Patitos a Programar  
 
-Proyecto personal donde enseño programación a niños con ejemplos sencillos, tiernos y llenos de creatividad.  
+✨ Proyecto personal donde enseño programación a niños con ejemplos sencillos, tiernos y llenos de creatividad.  
 🐥 ¡Porque todos podemos ser patitos que aprenden a programar!  
 
-![Duck](https://media.tenor.com/0AVbKGY_MxIAAAAj/duck-duckling.gif)  
+[📺 Visita mi canal en YouTube](https://www.youtube.com/@PatitosaProgramar)  
+[💌 Escríbeme al correo del canal](mailto:patitosaprogramar@gmail.com)  
 
+
+<!--
 ---
 
 ## 💙 Tecnologías que uso  
@@ -67,12 +71,15 @@ Proyecto personal donde enseño programación a niños con ejemplos sencillos, t
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mari1345Espu&layout=compact&theme=tokyonight&title_color=89CFF0)  
 
 ---
-
+-->
 ## ☁️ Contáctame  
 
-💌 **Email:** mafeescobar3110@gmail.com
-🌸 **LinkedIn:**  
-🦆 **Proyecto:** *Patitos a Programar*  
+💌 **Correo personal:** mafeescobar3110@gmail.com
+📧 **Correo del canal:** [patitosaprogramar@gmail.com](mailto:patitos.a.programar.1@gmail.com)  
+📺 **YouTube:** [Patitos a Programar](https://www.youtube.com/@PatitosaProgramar)
+)  
+🌸 **LinkedIn:** [Tu perfil aquí]  
 
 ✨ ¡Hablemos y creemos cosas bonitas que inspiren a más niños a aprender a programar! 💙
+
 
