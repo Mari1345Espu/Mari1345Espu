@@ -74,6 +74,7 @@ Here are some ideas to get you started:
 ## ☁️ Contáctame  
 
 💌 **Correo personal:** mafeescobar3110@gmail.com
+
 📧 **Correo del canal:** [patitosaprogramar@gmail.com](patitos.a.programar.1@gmail.com)  
 📺 **YouTube:** [Patitos a Programar](https://www.youtube.com/@PatitosaProgramar)
   
